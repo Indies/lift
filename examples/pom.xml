@@ -55,6 +55,7 @@
   -->
   <modules>
     <module>example</module>
+    <module>cms</module>
     <module>skittr</module>
     <module>hellolift</module>
     <module>hellodarwin</module>
